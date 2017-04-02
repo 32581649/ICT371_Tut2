@@ -2,7 +2,7 @@
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Input;
 
-namespace Tut2_1
+namespace Tut2_2
 {
     class Camera : GameComponent
     {
